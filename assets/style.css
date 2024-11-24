@@ -4848,7 +4848,7 @@ html {
 }
 
 .main .sec-fv {
-  background: url(../img/fv-bg.png);
+  background: url(./img/fv-bg.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
